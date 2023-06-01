@@ -1,2 +1,2 @@
 def clean_data(df):
-    return df
+    return df('price')
